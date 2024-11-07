@@ -1,0 +1,3 @@
+6061_Aluminum 241
+HY-80_Steel 552
+Titanium_alloy_48-0T3V 588.4
